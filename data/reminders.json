@@ -1,0 +1,15 @@
+{
+  "reminders": [
+    {
+      "id": "4c92b88d-31f9-4ba1-8f19-d39e82e576e7",
+      "userId": "a9e1ae7c-0022-41f6-837f-851c67d1abc9",
+      "email": "ram@campus.edu",
+      "sendAt": "2026-02-22T02:29:00.000Z",
+      "sent": false,
+      "requestId": "6b35a225-a942-442a-ac9a-9b344049656f",
+      "subject": "⏰ Return Reminder: \"shoes\" due in 16 hours!",
+      "html": "\n      <h2>Return Reminder ⏰</h2>\n      <p>Hi <strong>ram</strong>,</p>\n      <p>This is your reminder to return <strong>\"shoes\"</strong> to <strong>Ajay Patel</strong>.</p>\n      <p>📅 <b>Return deadline: 2026-02-22</b> (in ~16 hours)</p>\n      <p>⚠️ Late fine: ₹5/day if returned after the deadline.</p>\n      <p>Please return the item on time to avoid fines.</p>\n      <br><p>— CampusRent Team 🎓</p>\n    ",
+      "inAppMsg": "⏰ Reminder: Return \"shoes\" to Ajay Patel — due in 16 hours! (2026-02-22)"
+    }
+  ]
+}

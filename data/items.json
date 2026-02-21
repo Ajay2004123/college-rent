@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "id": "7d7754b5-250b-44da-9351-28340d3d8ba3",
+      "name": "shoes",
+      "category": "Other",
+      "description": "shoes size 8",
+      "price": 20,
+      "fine": 5,
+      "ownerId": "596017e8-3425-4eca-a4bd-e97f2d64f4a7",
+      "ownerName": "Ajay Patel",
+      "ownerEmail": "patelajay1604@gmail.com",
+      "photo": "/uploads/b53d90d6-43ac-452e-b230-c25f33ec1c23.webp",
+      "available": true,
+      "createdAt": "2026-02-21T06:45:16.019Z"
+    }
+  ]
+}

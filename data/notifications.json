@@ -1,0 +1,68 @@
+{
+  "notifications": [
+    {
+      "id": "1771656674234",
+      "userId": "596017e8-3425-4eca-a4bd-e97f2d64f4a7",
+      "msg": "🎤 Voice message from ram",
+      "icon": "🎤",
+      "time": "2026-02-21T06:51:14.234Z",
+      "read": true
+    },
+    {
+      "id": "1771656664824",
+      "userId": "a9e1ae7c-0022-41f6-837f-851c67d1abc9",
+      "msg": "🎤 Voice message from Ajay Patel",
+      "icon": "🎤",
+      "time": "2026-02-21T06:51:04.824Z",
+      "read": false
+    },
+    {
+      "id": "1771656654573",
+      "userId": "596017e8-3425-4eca-a4bd-e97f2d64f4a7",
+      "msg": "💬 New message from ram: \"Where do I have to come to pick up the item?\"",
+      "icon": "💬",
+      "time": "2026-02-21T06:50:54.573Z",
+      "read": true
+    },
+    {
+      "id": "1771656556832",
+      "userId": "a9e1ae7c-0022-41f6-837f-851c67d1abc9",
+      "msg": "💬 New message from Ajay Patel: \"hlo\"",
+      "icon": "💬",
+      "time": "2026-02-21T06:49:16.832Z",
+      "read": false
+    },
+    {
+      "id": "1771656545310",
+      "userId": "596017e8-3425-4eca-a4bd-e97f2d64f4a7",
+      "msg": "💬 New message from ram: \"hello\"",
+      "icon": "💬",
+      "time": "2026-02-21T06:49:05.310Z",
+      "read": true
+    },
+    {
+      "id": "1771656497025",
+      "userId": "a9e1ae7c-0022-41f6-837f-851c67d1abc9",
+      "msg": "✅ Your request for \"shoes\" was approved! Return by 2026-02-22.",
+      "icon": "✅",
+      "time": "2026-02-21T06:48:17.025Z",
+      "read": false
+    },
+    {
+      "id": "1771656462283",
+      "userId": "596017e8-3425-4eca-a4bd-e97f2d64f4a7",
+      "msg": "ram wants to rent \"shoes\" from 2026-02-21 to 2026-02-22",
+      "icon": "📩",
+      "time": "2026-02-21T06:47:42.284Z",
+      "read": true
+    },
+    {
+      "id": "1771656316023",
+      "userId": "596017e8-3425-4eca-a4bd-e97f2d64f4a7",
+      "msg": "Your item \"shoes\" is now listed!",
+      "icon": "📦",
+      "time": "2026-02-21T06:45:16.023Z",
+      "read": true
+    }
+  ]
+}

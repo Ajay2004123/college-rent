@@ -1,0 +1,74 @@
+{
+  "conversations": {
+    "596017e8-3425-4eca-a4bd-e97f2d64f4a7__a9e1ae7c-0022-41f6-837f-851c67d1abc9": {
+      "participants": [
+        {
+          "id": "596017e8-3425-4eca-a4bd-e97f2d64f4a7",
+          "name": "Ajay Patel"
+        },
+        {
+          "id": "a9e1ae7c-0022-41f6-837f-851c67d1abc9",
+          "name": "ram"
+        }
+      ],
+      "requestId": "6b35a225-a942-442a-ac9a-9b344049656f",
+      "itemName": "shoes",
+      "messages": [
+        {
+          "id": "626df94f-b4d9-47d2-9de7-48015bab5950",
+          "type": "system",
+          "text": "✅ Rental approved! ram will rent \"shoes\" from 2026-02-21 to 2026-02-22. Total: ₹20",
+          "time": "2026-02-21T06:48:17.022Z",
+          "read": true
+        },
+        {
+          "id": "9ab2dfed-09d7-4559-aa9e-d2f8586b5784",
+          "type": "text",
+          "senderId": "a9e1ae7c-0022-41f6-837f-851c67d1abc9",
+          "senderName": "ram",
+          "text": "hello",
+          "time": "2026-02-21T06:49:05.308Z",
+          "read": true
+        },
+        {
+          "id": "c8c12516-d86e-47f3-84c2-b42f80682951",
+          "type": "text",
+          "senderId": "596017e8-3425-4eca-a4bd-e97f2d64f4a7",
+          "senderName": "Ajay Patel",
+          "text": "hlo",
+          "time": "2026-02-21T06:49:16.830Z",
+          "read": true
+        },
+        {
+          "id": "daac3e58-0784-4e78-a261-2bbf102a4d84",
+          "type": "text",
+          "senderId": "a9e1ae7c-0022-41f6-837f-851c67d1abc9",
+          "senderName": "ram",
+          "text": "Where do I have to come to pick up the item?",
+          "time": "2026-02-21T06:50:54.571Z",
+          "read": true
+        },
+        {
+          "id": "62effe51-ee69-4e94-8f85-e794d4f86470",
+          "type": "voice",
+          "senderId": "596017e8-3425-4eca-a4bd-e97f2d64f4a7",
+          "senderName": "Ajay Patel",
+          "audioUrl": "/uploads/voice/28b499f5-23a2-43dd-9806-90a9619b9d76.webm",
+          "duration": "0:03",
+          "time": "2026-02-21T06:51:04.823Z",
+          "read": true
+        },
+        {
+          "id": "d0dd4342-8edf-4e43-abd9-0b2edd8e546e",
+          "type": "voice",
+          "senderId": "a9e1ae7c-0022-41f6-837f-851c67d1abc9",
+          "senderName": "ram",
+          "audioUrl": "/uploads/voice/e4d743dd-953a-452e-a6e0-eefe1580ec53.webm",
+          "duration": "0:02",
+          "time": "2026-02-21T06:51:14.232Z",
+          "read": true
+        }
+      ]
+    }
+  }
+}

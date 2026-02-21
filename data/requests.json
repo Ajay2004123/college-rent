@@ -1,0 +1,25 @@
+{
+  "requests": [
+    {
+      "id": "6b35a225-a942-442a-ac9a-9b344049656f",
+      "itemId": "7d7754b5-250b-44da-9351-28340d3d8ba3",
+      "itemName": "shoes",
+      "ownerId": "596017e8-3425-4eca-a4bd-e97f2d64f4a7",
+      "ownerName": "Ajay Patel",
+      "ownerEmail": "patelajay1604@gmail.com",
+      "renterId": "a9e1ae7c-0022-41f6-837f-851c67d1abc9",
+      "renterName": "ram",
+      "renterEmail": "ram@campus.edu",
+      "startDate": "2026-02-21",
+      "endDate": "2026-02-22",
+      "days": 1,
+      "pricePerDay": 20,
+      "totalCost": 20,
+      "finePerDay": 5,
+      "message": "i want your shoes for 1 day",
+      "status": "approved",
+      "createdAt": "2026-02-21T06:47:42.282Z",
+      "respondedAt": "2026-02-21T06:48:17.020Z"
+    }
+  ]
+}

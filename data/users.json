@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "596017e8-3425-4eca-a4bd-e97f2d64f4a7",
+      "name": "Ajay Patel",
+      "email": "patelajay1604@gmail.com",
+      "password": "28c43c77a7f9dd8ebe17b86dcb77b063c3c90e3a55dc21df2329dddad19ea443",
+      "createdAt": "2026-02-21T06:42:16.754Z"
+    },
+    {
+      "id": "a9e1ae7c-0022-41f6-837f-851c67d1abc9",
+      "name": "ram",
+      "email": "ram@campus.edu",
+      "password": "28c43c77a7f9dd8ebe17b86dcb77b063c3c90e3a55dc21df2329dddad19ea443",
+      "createdAt": "2026-02-21T06:43:25.482Z"
+    }
+  ]
+}
