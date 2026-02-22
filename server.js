@@ -4,7 +4,7 @@ const path = require('path');
 const fs = require('fs');
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+
 
 // Ensure uploads dir exists
 const uploadsDir = path.join(__dirname, 'public', 'uploads');
@@ -45,12 +45,14 @@ const { startReminderChecker } = require('./routes/email');
 startReminderChecker();
 
 // ─── Start server ─────────────────────────────────────────────────────────────
+const PORT = process.env.PORT || 5000;
+
 app.listen(PORT, () => {
   console.log(`
   ╔══════════════════════════════════════════╗
   ║         CampusRent Server Running        ║
   ║                                          ║
-  ║   🌐 Open: http://localhost:${PORT}         ║
+  ║   🌐 Running on port: ${PORT}            ║
   ║   📁 Storage: JSON files in /data/       ║
   ║   ⏰ Reminder checker: ACTIVE            ║
   ╚══════════════════════════════════════════╝
